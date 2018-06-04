@@ -26,7 +26,9 @@ I'm also open to ideas for what other roles/techniques could use a handy 8-bit i
 ![Pomodoro](pomodoro.png "Pomodoro")
 ![Pomodoro 25 seconds](pomodoro-25.png "Pomodoro 25s")
 ![search](search.png "Switch on Search")
+![search](google_magnifying_glass.png "Switch on Search")
 ![Task List Blue](tasks-blue.png "Task List Blue")
 ![Task List Green](tasks-green.png "Task List Green")
 ![Pairmate](gopher.png "Pairmate")
+![Pairmate](keyboard.png "Pairmate")
 
